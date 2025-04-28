@@ -1,0 +1,10 @@
+pandas
+yfinance
+requests
+ta
+vaderSentiment
+matplotlib
+beautifulsoup4
+lxml
+Flask
+flask-cors

@@ -1,0 +1,6 @@
+.venv
+__pycache__/
+data/raw/
+config/settings.py
+frontend/node_modules
+frontend/build/
