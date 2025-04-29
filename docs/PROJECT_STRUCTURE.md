@@ -106,14 +106,6 @@ The `notebooks/` directory contains Jupyter notebooks for data analysis and expl
 
 ## Migration from Old Structure
 
-If you're working with code in the old `src/` directory, please migrate it to the appropriate location in the new structure:
-
-- `src/app.py` → `backend/app.py`
-- `src/data_ingestion.py` → `backend/api/data_ingestion.py`
-- `src/sentiment_analysis.py` → `backend/api/sentiment_analysis.py`
-- `src/technical_analysis.py` → `backend/api/technical_analysis.py`
-- `src/visualization.py` → `backend/api/visualization.py`
-
 ## Best Practices
 
 1. **Keep related files together**: Group files by feature rather than by type
